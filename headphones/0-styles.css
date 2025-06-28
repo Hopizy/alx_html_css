@@ -1,0 +1,12 @@
+a:hover,
+a:active {
+  color: #c4ff65;
+}
+button:hover,
+button:active {
+  opacity: 0.9;
+}
+.hero {
+    background: url('C:\Users\user\alx_html_css\headphone\images\headphones_hero_1.jpg') center/cover no-repeat;
+  }
+  
